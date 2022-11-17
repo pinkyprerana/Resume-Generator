@@ -1,0 +1,40 @@
+body
+{
+width:100%;
+height:100%;
+background-image:url("bg.jpg");
+}
+
+.container
+{
+	
+	background-color:white;
+	display:flex;
+	width:40%;
+	height:700px;
+	margin: 30px auto;
+	border-radius: 0px;
+	justify-content: center;
+}
+
+.form
+{
+display:flex;
+margin:50px auto;
+padding: 40px auto;
+}
+
+.form_container
+{
+display:flex;
+padding:10px auto;
+margin-top:20px;
+}
+
+.form-control
+{
+border:white;
+border-bottom: 2px solid blue;
+}
+
+
